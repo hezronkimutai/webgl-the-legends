@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>WebGL Demo</title>
-  <link rel="stylesheet" href="./webgl.css" type="text/css">
+  <link rel="stylesheet" href="./css/webgl.css" type="text/css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gl-matrix/2.8.1/gl-matrix-min.js"
     integrity="sha512-zhHQR0/H5SEBL3Wn6yYSaTTZej12z0hVZKOv3TwCUXT1z5qeqGcXJLLrbERYRScEDDpYIJhPC1fk31gqR783iQ=="
     crossorigin="anonymous" defer>
@@ -13,13 +13,17 @@
 </head>
 
 <body>
-  <canvas id="glcanvas" width="640" height="480"></canvas>
+  <div class="container">
+    <canvas id="glcanvas" width="1000" height="800"></canvas>
+  </div>
 </body>
-<script crossorigin="anonymous" defer src="buffers.js"></script>
-<script crossorigin="anonymous" defer src="scene.js"></script>
-<script crossorigin="anonymous" defer src="sources.js"></script>
-<script crossorigin="anonymous" defer src="shadeLoader.js"></script>
-<script crossorigin="anonymous" defer src="textures.js"></script>
-<script crossorigin="anonymous" defer src="index.js"></script>
+
+<script crossorigin="anonymous" defer src="js/buffers.js"></script>
+<script crossorigin="anonymous" defer src="js/scene.js"></script>
+<script crossorigin="anonymous" defer src="js/sources.js"></script>
+<script crossorigin="anonymous" defer src="js/shadeLoader.js"></script>
+<script crossorigin="anonymous" defer src="js/textures.js"></script>
+<script crossorigin="anonymous" defer src="js/index.js"></script>
+
 
 </html>
