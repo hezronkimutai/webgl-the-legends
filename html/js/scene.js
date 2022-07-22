@@ -44,7 +44,7 @@ function drawScene(gl, programInfo, buffers, deltaTime, texture, texture1, textu
         modelViewMatrix, // destination matrix
         modelViewMatrix, // matrix to rotate
         cubeRotation * 0.7, // amount to rotate in radians
-        [0, 0, 1]
+        [1, 0, 0]
     ); // axis to rotate around (X)
 
     // Tell WebGL how to pull out the positions from the position
