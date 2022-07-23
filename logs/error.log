@@ -198,3 +198,20 @@
 2022/07/21 19:28:14 [notice] 27768#29316: signal process started
 2022/07/21 19:30:03 [notice] 16756#2412: signal process started
 2022/07/21 19:31:09 [notice] 8540#23396: signal process started
+2022/07/23 13:20:52 [notice] 20412#8572: signal process started
+2022/07/23 13:20:52 [error] 20412#8572: OpenEvent("Global\ngx_reload_2780") failed (2: The system cannot find the file specified)
+2022/07/23 13:24:23 [notice] 680#8792: signal process started
+2022/07/23 13:24:23 [error] 680#8792: OpenEvent("Global\ngx_reload_2780") failed (2: The system cannot find the file specified)
+2022/07/23 13:25:43 [notice] 15624#12456: signal process started
+2022/07/23 13:25:43 [error] 15624#12456: OpenEvent("Global\ngx_reload_2780") failed (2: The system cannot find the file specified)
+2022/07/23 13:26:15 [notice] 5560#18696: signal process started
+2022/07/23 13:26:15 [error] 5560#18696: OpenEvent("Global\ngx_reload_2780") failed (2: The system cannot find the file specified)
+2022/07/23 13:26:51 [notice] 16796#20176: signal process started
+2022/07/23 13:26:51 [error] 16796#20176: OpenEvent("Global\ngx_reload_2780") failed (2: The system cannot find the file specified)
+2022/07/23 13:28:13 [notice] 16004#17676: signal process started
+2022/07/23 13:28:13 [error] 16004#17676: OpenEvent("Global\ngx_reload_2780") failed (2: The system cannot find the file specified)
+2022/07/23 13:30:08 [notice] 4352#15816: signal process started
+2022/07/23 13:31:09 [notice] 13684#10772: signal process started
+2022/07/23 13:32:39 [notice] 15344#4460: signal process started
+2022/07/23 13:33:07 [notice] 16528#11324: signal process started
+2022/07/23 13:34:38 [notice] 15524#11944: signal process started
